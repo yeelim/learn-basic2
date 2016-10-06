@@ -1,0 +1,6 @@
+#console
+com.elim.learn.basic.spi.service.impl.ConsoleLogService
+#file
+com.elim.learn.basic.spi.service.impl.FileLogService
+#db
+com.elim.learn.basic.spi.service.impl.DBLogService
